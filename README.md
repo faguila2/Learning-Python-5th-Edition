@@ -2,7 +2,7 @@
   
 # Learning Python 5th Edition, by Mark Lutz
   
-[![Learning Python 5th Edition, by Mark Lutz](http://akamaicovers.oreilly.com/images/9781449355685/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781449355722//)
+[![Learning Python 5th Edition, by Mark Lutz](https://github.com/faguila2/Learning-Python-5th-Edition/logo.png)](https://www.safaribooksonline.com/library/view/title/9781449355722//)
   
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
   
