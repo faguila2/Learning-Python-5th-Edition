@@ -14,6 +14,10 @@ If you think your use of code examples falls outside fair use or the permission 
   
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
 
+----------- PLAYING WITH SOUTCE CONTROL with VS Code and GitHub --------------
+
 Just testing whether the changes are reflected in the GitHub repository in GitHub.com (faguila2)
 
 STASHED change No2 (faguila2)
+
+------------------------------------------------------------------------------
