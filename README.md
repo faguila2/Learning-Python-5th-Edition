@@ -27,4 +27,7 @@ STASHED change No4 (faguila2), after unistalling the Remote Request Pulls Extens
 STASHED change No5 (faguila2), Remote Request Pulls Extension uninstalled. It seems that SSH keys are not configured in VS Code.
 
 STASHED change No6 (faguila2),
+
+STASHED change No7 (faguila2), It seems that finally source control is working from VS Code. Apparentely Github was authenticating by using Windows Credential Manager which prevented the faguila2 user to utilize its GitHub credentials.
+
 -------------------------------------------------------------------------------
