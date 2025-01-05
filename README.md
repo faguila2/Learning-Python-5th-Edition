@@ -13,21 +13,3 @@ We appreciate, but do not require, attribution. An attribution usually includes 
 If you think your use of code examples falls outside fair use or the permission given here, feel free to contact us at <permissions@oreilly.com>.
   
 Please note that the examples are not production code and have not been carefully tested. They are provided "as-is" and come with no warranty of any kind.
-
------------ PLAYING WITH SOURCE CONTROL with VS Code and GitHub --------------
-
-Just testing whether the changes are reflected in the GitHub repository in GitHub.com (faguila2)
-
-STASHED change No2 (faguila2)
-
-STASHED change No3 (faguila2)
-
-STASHED change No4 (faguila2), after unistalling the Remote Request Pulls Extension
-
-STASHED change No5 (faguila2), Remote Request Pulls Extension uninstalled. It seems that SSH keys are not configured in VS Code.
-
-STASHED change No6 (faguila2),
-
-STASHED change No7 (faguila2), It seems that finally source control is working from VS Code. Apparentely Github was authenticating by using Windows Credential Manager which prevented the faguila2 user to utilize its GitHub credentials.
-
--------------------------------------------------------------------------------
